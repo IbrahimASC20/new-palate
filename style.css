@@ -1,0 +1,37 @@
+h1 {
+    margin-top: 45px;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: firebrick;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.topbar {
+    background-color:#13bcf0;
+    text-align: center;
+    padding: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+.topbar a {
+    padding: 14px 16px 10px;
+    font-size: 16px;
+    font-family: 'Mulish', sans-serif;
+    color: whitesmoke;
+    background-color: tomato;
+}
+.quote {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 25px;
+}
+.regions {
+    font-family: 'Mulish', sans-serif;
+}
+
